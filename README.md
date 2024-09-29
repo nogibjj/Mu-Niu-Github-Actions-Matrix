@@ -1,5 +1,7 @@
 # Mu-Niu-Github-Actions-Matrix
 
+[![CI](https://github.com/nogibjj/Mu-Niu-Github-Actions-Matrix/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Mu-Niu-Github-Actions-Matrix/actions/workflows/ci.yml)
+
 # Overview
 This project demonstrates setting up a GitHub Actions workflow to test Python code across multiple versions of Python. The repository uses a matrix strategy to ensure compatibility and testing efficiency across various Python environments.
 
